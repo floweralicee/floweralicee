@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @flower_alicee
 - 👀 I’m interested in animated film and traveling
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning chess and building animini.app
 - 📫 How to reach me : search other platforms @flower_alicee
 
 <!---
