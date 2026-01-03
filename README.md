@@ -1,7 +1,6 @@
-- Hi, I’m alice
-- 4 yr Animator (Marvel/AAA Games) → builder/founder.
-- I research and build tools for speech-driven facial acting and video controllability.
-- Founder of Animini (16k impressions, 100 users week 1; 92.3% blind A/B preference).
+- Hi, I’m alice 🌸 
+- 4 yr Animator (Marvel/AAA Games)
+- Founder of Animini - a prompting engineer for Pixar-style AI Animation
 - Ex UW Reality Lab researcher (SIGGRAPH 2019 nomination).
 - Reach me: @flower_alicee on X.
 
