@@ -1,8 +1,12 @@
-- Hi, I’m alice 🌸 
-- 4 yr Animator (Marvel movie "Thor"/AAA Games for BioWare, EA, Archetype Entertainment)
-- Founder of HANA ai - ai producer for small studios.
-- Founder of WOWO Studios, an animation studio based in NY, director of "A Date and a Chestnut".
-- Ex UW Reality Lab researcher (SIGGRAPH 2019 nomination).
+- Hi, I’m ALICE 🌸
+  
+- Founder of
+-   animclaw.com - creating your short film with one command.
+-   animini.app - a collection of animation mini apps I made.
+
+- 4 yr Film and Game Animator (Marvel movie & AAA Games for BioWare, EA, Archetype Entertainment).
+- Short Film Director - "A Date and a Chestnut".
+- Ex University of Washington Reality Lab researcher (SIGGRAPH 2019 nomination).
 - Reach me: @flower_alicee on X.
 
 <!---
