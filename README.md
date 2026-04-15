@@ -1,12 +1,14 @@
 - Hi, I’m ALICE 🌸
   
-- Founder of
+- What I built in 2026 Q1:
+-   24/7 animation couch - frame-by-frame animation feeedback tool. (22k views in a day)
+-   animini.app - your desktop focus animal that helps you reach your true potential.
 -   animclaw.com - creating your short film with one command.
--   animini.app - a collection of animation mini apps I made.
 
+My past life:
 - 4 yr Film and Game Animator (Marvel movie & AAA Games for BioWare, EA, Archetype Entertainment).
 - Short Film Director - "A Date and a Chestnut".
-- Ex University of Washington Reality Lab researcher (SIGGRAPH 2019 nomination).
+- University of Washington BS in HCI + CS department, Animation Reality Lab researcher.
 - Reach me: @flower_alicee on X.
 
 <!---
