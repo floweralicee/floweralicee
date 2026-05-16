@@ -1,6 +1,9 @@
 - Hi, I’m ALICE 🌸
   
 - What I built in 2026 Q2:
+
+- X Post Generator:
+- Hacking X viral formats for your startup in real time with your unique voice.
   
 - Alice Stack:
 - 1. track lifemaxxing moments with GitHub streak
