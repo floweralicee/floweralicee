@@ -2,8 +2,8 @@
   
 - What I built in 2026 Q2:
 
-- X Post Generator:
-- Hacking X viral formats for your startup in real time with your unique voice.
+- X Post Generator: Write 5 Viral X posts in 5 seconds.
+- Artchive: Turn museum masterpieces into your brand's design language.
   
 - Alice Stack:
 - 1. track lifemaxxing moments with GitHub streak
